@@ -1,0 +1,56 @@
+h1{
+	font-weight: 300;
+	font-family: 'Linux Libertine','Georgia','Times','Source Serif Pro',serif;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    text-align: center;
+}
+p{
+	word-spacing: 5px;
+	text-align: justify;
+	line-height: 24px;
+	font-family: sans-serif;
+	text-indent: 24px;
+}
+h2{font-weight: 300;
+	font-family: 'Linux Libertine','Georgia','Times','Source Serif Pro',serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+ul li{
+	list-style-type: none;
+	font-family: sans-serif;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+a:visited{
+	color:#8e0097 ;
+}
+a:active{
+	color: fuchsia;
+	background-color: #2f017f;
+}
+figure{
+	border: solid 5px  lightgrey;
+}
+figcahtion{
+	padding: 5px;
+	padding: 20px;
+	font-family: sans-serif;
+}
+.fr{
+	float: right;
+}
+.fd{
+	width: 470px;
+height: 380px;
+background-size: cover;
+border: 10px ridge lightgrey;
+}
+.xd{
+	float: right;
+}

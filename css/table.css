@@ -1,0 +1,56 @@
+body{
+	background-color: #5BDE88;
+}
+p{
+	font-size: 50px;
+	font-family: cursive;
+	font-weight: bold;
+	background-color: #1FD1C8;
+	border: double 5px #B58825;
+	border-collapse: separate;
+	text-align: center;
+}
+table{
+	border: double 5px #B58825;
+	border-collapse: separate;
+	font-size: 24px;
+	width: 50%;
+	margin: auto;
+}
+th{
+	background-color: Navy;
+}
+th,td{
+	border: solid 2px red;
+	width: 25%;
+	height: 1cm;
+}
+.c1{
+	border: dashed Indigo;
+	text-align:right;
+	vertical-align: bottom;
+}
+tr:hover{
+	background-color: lightgrey;
+}
+td:hover{
+	background-image: url(https://64.media.tumblr.com/fbbf52c0105aa852c4dc6bd98501bded/tumblr_nlpr5mm8Z21relaado2_r1_400.gif);
+	font-size: 1.2em;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	text-transform: uppercase;
+	color: OldLace;
+}
+tr:nth-child(even){
+	background-color: lightpink;
+}
+tr:nth-child(odd){
+	background-color:SandyBrown;
+}
+caption{
+	font-size: 2em;
+	background: linear-gradient(to right,red, orange, yellow, green, blue, indigo, violet);
+    text-transform: uppercase;
+    color: whitesmoke;
+}

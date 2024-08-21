@@ -1,0 +1,105 @@
+body{
+	background-color: lavenderblush;
+}
+p{
+	background-color: lavender;
+	font-size: 50px;
+	color: purple;
+	display:block;
+
+}
+span{
+	border: dashed 5px green;
+	display: block;
+}
+ul{
+	background-color: purple;
+	display: inline-block;
+}
+li{
+	background-color: yellow;
+	font-size: 24px;
+	width: 200px;
+	border: dashed 5px fuchsia;
+	margin: 10px;
+	padding: 10px 5px;
+	text-align: center;
+}
+ul li{
+	list-style-type: none;
+	display: inline-block;
+}
+li:hover{
+	background-color: fuchsia;
+	border: dashed 5px yellow;
+}
+#first{
+	background-color: royalblue;
+	width: 500px;
+	height: 500px;
+	color: yellow;
+	font-size: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	border-width: 30px;
+	border-style: double dotted;
+	border-color: red greenyellow orange coral;
+}
+#second{
+	width: 700px;
+	height: 800px;
+	background-color: gold;
+	margin: 50px;
+	padding: 50px;
+	font-size: 40px;
+	border-width: 30px;
+	border-style: double dotted;
+	border-color: red greenyellow orange;
+}
+#third, #forth{
+	padding: 50px;
+	width: 900px;
+	height: 200px;
+	background-color: plum;
+	margin: 50px;
+	font-size: 45px;
+}
+#forth{
+	background-color: purple;
+	border-width: 30px;
+	border-style: ridge dotted;
+	border-color: red greenyellow olive coral;
+}
+#third{
+	border-width: 30px;
+	border-style:solid double;
+	border-color:  orange lime;
+}
+#fi{
+	background-color: greenyellow;
+	width:700px;
+	height: 700px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#cd{
+	background-color: blue;
+	margin: 100px;
+	width:500px;
+	height: 500px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#bob{
+	background-color:purple;
+	margin: 100px;
+	width:300px;
+	height: 300px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

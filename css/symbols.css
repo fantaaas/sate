@@ -1,0 +1,82 @@
+body{
+	background-color: MediumPurple;
+}
+p{
+	font-size: 50px;}
+.p1{
+	color: violet;
+	background-color: DarkMagenta;
+}
+.p2{
+	color: HotPink;
+	background-color: MediumVioletRed	;
+	font-family: sans-serif;
+	text-decoration: underline;
+}
+.p3{
+	font-family: cursive;
+	text-decoration: underline;
+	text-underline-position: under;
+	text-decoration-color: PaleVioletRed;
+}
+.p4{
+   font-family: monospace;
+   font-style: italic;
+   text-decoration: underline;
+   text-underline-position: under;
+   text-decoration-color: #fec1ff;
+   text-decoration-style: wavy;}
+.p5{
+	font-family: fantasy;
+	text-decoration:line-through;
+   text-decoration-color:  #640451 ;
+   text-decoration-style: dashed;
+}
+.p6{
+	font-family:  Georgia,Times, "Times New Roman",  serif;
+	text-shadow: 2px -2px DimGray;
+}
+.p7{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.p8{
+    font-family: "Rubik Puddles", system-ui;
+    text-shadow: 0 0 25px aliceblue;
+    color:  Ivory ;
+}
+.p9{
+font-family: "Kablammo", system-ui;
+}
+.p10{
+font-family: "Rubik Maps", system-ui;
+font-weight: bold;
+text-transform: uppercase;
+}
+.p11{
+font-family: "Rubik Glitch Pop", system-ui;
+}
+.s1{
+	font-size: 2em;
+	color: darkmagenta;
+	text-shadow: 0 0 30px MidnightBlue;
+	font-family: "Rubik Maps", system-ui;
+}
+.s2{
+	font-size: 3em;
+	color: red;
+	text-shadow: 0 0 20px darkred;
+	font-family: "Rubik Maps", system-ui;
+}
+.s3{
+	font-size: 2em;
+	color:  #801904;
+	text-shadow: 0 0 50px orange;
+	font-family: "Rubik Maps", system-ui;
+}
+.p12{
+	text-shadow: 
+   1px 1px 2px black,
+   0 0 1em blue,
+   0 0 0.2em blue;
+  color:white ;
+}

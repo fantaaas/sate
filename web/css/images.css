@@ -1,0 +1,59 @@
+body{
+	background-color: pink;
+	background-image: url(https://cdn.pixabay.com/animation/2023/03/15/06/38/06-38-21-949_512.gif);
+background-size: 200px;
+background-repeat:no-repeat;
+background-position:100% 100%;
+background-attachment:fixed;
+}
+p{
+	font-size: 0.9in;
+	color: orchid;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWH5fTOY7GQYqGiKIrKcaQ7svmOEAJAIUijQ&s);
+	background-size: cover;
+}
+#first{
+	width: 500px;
+	height: 500px;
+	background-image: url(https://www.imgonline.com.ua/examples/bee-on-daisy.jpg);
+	background-size: cover;
+	border: 30px ridge lightgreen;
+}
+#second{
+	width: 400px;
+	background-size: cover;
+	height: 400px;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWH5fTOY7GQYqGiKIrKcaQ7svmOEAJAIUijQ&s);
+	margin: 50px;
+	border: 30px ridge;
+	border-image: linear-gradient(red, greenyellow, pink) 30;
+}
+#trd{
+	width: 500px;
+	height: 500px;
+	background-image: url(https://www.icegif.com/wp-content/uploads/2023/03/icegif-1393.gif);
+	background-size: cover;
+	border: 30px ridge lightgreen;
+}
+#forth{
+	width: 50%;
+	margin: auto;
+	display: block;
+	border-radius:50%;
+	box-shadow: 10px -10px 50px lime ;
+}
+#dr{
+   width: 50%;
+   margin: 30px;
+   display: block;
+   border-radius: 30% ;
+   box-shadow: 0 0 20px red;
+}
+#dt{
+	background-image: linear-gradient(rgba(255, 0, 0, 0.5),rgba(255, 0, 255, 0.5)),
+	url(https://www.imgonline.com.ua/examples/bee-on-daisy.jpg);
+width: 500px;
+	height: 500px;
+	background-size: cover;
+}
+
